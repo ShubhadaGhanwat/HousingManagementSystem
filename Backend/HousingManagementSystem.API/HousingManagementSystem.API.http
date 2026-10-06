@@ -1,0 +1,6 @@
+@HousingManagementSystem.API_HostAddress = http://localhost:5024
+
+GET {{HousingManagementSystem.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

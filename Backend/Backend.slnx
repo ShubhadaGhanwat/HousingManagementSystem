@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="HousingManagementSystem.API/HousingManagementSystem.API.csproj" />
+  <Project Path="HousingManagementSystem.Application/HousingManagementSystem.Application.csproj" Id="3562265b-34e5-4fd4-afa3-1568838a6ec3" />
+  <Project Path="HousingManagementSystem.Domain/HousingManagementSystem.Domain.csproj" />
+  <Project Path="HousingManagementSystem.Infrastructure/HousingManagementSystem.Infrastructure.csproj" />
+  <Project Path="HousingManagementSystem.Tests/HousingManagementSystem.Tests.csproj" Id="fc06c0bd-ea34-41d2-b662-d520b66839a1" />
+</Solution>
