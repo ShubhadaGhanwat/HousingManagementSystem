@@ -264,4 +264,9 @@ Purpose VARCHAR(40),
 EntryTime DATETIME,
 ExitTime DATETIME,
 Remarks VARCHAR(30),
+Flag int default 0  ,
+CreatedAt DATETIME NOT NULL,
+UpdatedAt DATETIME NULL,
+DeletedAt DATETIME NULL,
+RestoredAt DATETIME NULL
 );
